@@ -1,11 +1,11 @@
 # minesweeper
  Minesweeper game written in python using pygame
 
-#Что нужно установить перед запуском
+# Что нужно установить перед запуском:
 
--python
--pygame
--pygame-menu
+-python \n
+-pygame \n
+-pygame-menu \n
 
 
 1. Clone the git
